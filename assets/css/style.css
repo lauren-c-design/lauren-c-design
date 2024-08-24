@@ -43,8 +43,8 @@
 
   .header-container {
     background-image: url(background-image-dark.png);
-    background-size: cover;
-    background-position: center;
+    background-size: 1500px 700px;
+    background-position: 50% 75%;
     background-repeat: no-repeat;
     height: 500px;
     padding: 20px;
@@ -196,12 +196,13 @@ body {
 
 .header-container {
   background-image: url(background-image-light.png);
-  background-size: cover;
-  background-position: center;
+  background-size: 1500px 700px;
+  background-position: 50% 75%;
   background-repeat: no-repeat;
   height: 500px;
   padding: 20px;
 }
+
 
 /* Hero section */
 #hero {
